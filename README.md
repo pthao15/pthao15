@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pthao15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in mẻtaverse
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -9,3 +9,4 @@ pthao15/pthao15 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 https://twitter.com/selina8615
+Welcome my page
